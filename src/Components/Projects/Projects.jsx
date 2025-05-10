@@ -10,7 +10,7 @@ const Projects = () => {
                           and the bot.The bot is navigated in disaster prone area based on
                           the commands received from base station.`,
             imgSrc: LORA_Rescue_Bot,
-            projectLink: "https://github.com/PSharonBlessy15/LoRa-BASED-COMMUNICATION-FOR-SEARCH-AND-RESCUE-MISSION-ROBOT"
+            projectLink: "https://github.com/sharonblessyp/LoRa-BASED-COMMUNICATION-FOR-SEARCH-AND-RESCUE-MISSION-ROBOT"
 
         },
         {
@@ -18,7 +18,7 @@ const Projects = () => {
             description: `Used Haar cascade classifier and Local Binary Pattern Histograms algorithm 
                           for facial recognition integrated with arduino and door lock for attendance management.`,
             imgSrc: Facial_Recognition,
-            projectLink: "https://github.com/PSharonBlessy15/-FACIAL-RECOGNITION-ATTENDANCE-SYSTEM-USING-MACHINE-LEARNING"
+            projectLink: "https://github.com/sharonblessyp/-FACIAL-RECOGNITION-ATTENDANCE-SYSTEM-USING-MACHINE-LEARNING"
         },
     ];
 

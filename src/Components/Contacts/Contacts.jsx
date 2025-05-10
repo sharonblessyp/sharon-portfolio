@@ -16,7 +16,7 @@ const Contacts = () => {
         },
         {
             icon: FaGithub,
-            href: "https://github.com/PSharonBlessy15",
+            href: "https://github.com/sharonblessyp",
         },
     ];
 
